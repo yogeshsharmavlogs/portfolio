@@ -196,7 +196,7 @@ img {
 .nav__logo,
 .nav__toggle {
   color: var(--title-color);
-  font-weight: var(--font-medium);
+  font-weight: var(--h1-font-size);
 }
 
 .nav__logo:hover {
@@ -760,7 +760,8 @@ img {
 }
 
 .portfolio__img {
-  width: 265px;
+  width: 270px;
+  height: 230px;
   border-radius: 0.5rem;
   justify-self: center;
 }
